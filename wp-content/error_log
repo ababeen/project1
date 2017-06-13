@@ -1,0 +1,1 @@
+[12-Jun-2017 15:46:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 130968 bytes) in /home/moktarul/public_html/project/elimresort/wp-includes/plugin.php on line 934

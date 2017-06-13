@@ -1,0 +1,8 @@
+*** MountResort WordPress Theme Changelog ***
+
+2017.06.8 - version 1.1
+* Improved Demo Content
+* Included Premium EForm Plugin
+
+2017.05.26 - version 1.0
+* First release!

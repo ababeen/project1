@@ -1,0 +1,8 @@
+changelog
+classes/class-ipt-fsqm-admin.php
+classes/class-ipt-fsqm-form-elements-admin.php
+classes/class-ipt-fsqm-form-elements-base.php
+classes/class-ipt-fsqm-form-elements-data.php
+integrations/mailchimp/class-ipt-fsqm-intg-mailchimp.php
+ipt_fsqm.php
+translations/ipt_fsqm.pot
